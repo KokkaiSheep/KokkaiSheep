@@ -5,12 +5,12 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "国会ヒツジ"
+    "text": "あ"
   },
   "text": {
     "more": "岸田の首相動静ネットワーク岸田の首相動静ネットワーク岸田の首相動静ネットワーク岸田の首相動静ネットワーク岸田の首相動静ネットワーク",
     "intro": "v1岸田の首相動静ネットワーク",
-    "title": "岸田"
+    "title": "岸田半年分"
   },
   "legend": {
     "edgeLabel": "",
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": "Id"
+    "imageAttribute": "size"
   },
   "sigma": {
     "drawingProperties": {
@@ -33,17 +33,17 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 7,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 20
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 2,
+      "minEdgeSize": 2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 18
     },
     "mouseProperties": {
       "maxRatio": 20,
