@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "岸田の首相動静ネットワーク岸田の首相動静ネットワーク岸田の首相動静ネットワーク岸田の首相動静ネットワーク岸田の首相動静ネットワーク",
-    "intro": "v5岸田の首相動静ネットワーク",
+    "intro": "v6岸田の首相動静ネットワーク",
     "title": "岸田"
   },
   "legend": {
@@ -37,7 +37,7 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 15
+      "defaultLabelSize": 10
     },
     "graphProperties": {
       "maxEdgeSize": 3,
