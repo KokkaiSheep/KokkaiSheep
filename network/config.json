@@ -14,13 +14,13 @@
   },
   "legend": {
     "edgeLabel": "",
-    "colorLabel": "",
+    "colorLabel": "分類別",
     "nodeLabel": ""
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
