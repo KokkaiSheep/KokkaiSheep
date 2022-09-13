@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "岸田の首相動静ネットワーク岸田の首相動静ネットワーク岸田の首相動静ネットワーク岸田の首相動静ネットワーク岸田の首相動静ネットワーク",
-    "intro": "v1岸田の首相動静ネットワーク",
+    "intro": "v1.1岸田の首相動静ネットワーク",
     "title": "岸田半年分"
   },
   "legend": {
@@ -30,14 +30,14 @@
     "drawingProperties": {
       "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
-      "defaultLabelBGColor": "#ddd",
+      "defaultLabelBGColor": "#000000",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
       "labelThreshold": 7,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 20
+      "defaultLabelSize": 30
     },
     "graphProperties": {
       "maxEdgeSize": 2,
